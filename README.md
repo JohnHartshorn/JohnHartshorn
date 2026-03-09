@@ -32,7 +32,7 @@ Spatial Analysis
 
 ## Featured Projects
 
-### Urban Green Space Accessibility - Las Vegas
+### Las Vegas Green Space Analysis - Python
 Spatial analysis examining access to green space across the Las Vegasa metropolitan area
 
 Tools used:
@@ -42,11 +42,11 @@ Tools used:
 
 ---
 
-### Deforestation Monitoring - Google Earth Engine 
+### Caldor Fire Burn Scars Analysis - JavaScript 
 Satellite based analysis identifying vegitation loss post wildfire
 
 Tools used:
-- Google Earth Engine - JavaScript
+- Google Earth Engine
 - Landsat Imagery
 - Remote sensing analysis
 
