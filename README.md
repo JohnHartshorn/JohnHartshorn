@@ -68,7 +68,7 @@ In Progress...
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/john-hartshorn-a3a5672b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
+LinkedIn: https://www.linkedin.com/in/johnhartshornGIS
 
 Resume: 
 
