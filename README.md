@@ -70,6 +70,6 @@ In Progress...
 
 LinkedIn: https://www.linkedin.com/in/johnhartshornGIS
 
-Resume: 
+Resume: [Download My Resume](./John_Hartshorn_Resume.pdf)
 
 
