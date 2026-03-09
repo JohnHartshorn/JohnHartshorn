@@ -62,8 +62,8 @@ Spatial analysis determing most suitible location for Solar Farm production
 
 ## Portfolio 
 
-- [Las Vegas Green Space Analysis](JohnHartshorn/Las-Vegas_Green_Space_Analysis)
-- [Caldor Fire Burn Scars Analysis](JohnHartshorn/Caldor_Fire_Burn_Scars_Analysis)
+- [Las Vegas Green Space Analysis](https://github.com/JohnHartshorn/Las-Vegas_Green_Space_Analysis)
+- [Caldor Fire Burn Scars Analysis](https://github.com/JohnHartshorn/Caldor_Fire_Burn_Scars_Analysis)
 - [Solar Farm Suitability Analysis-ArcGIS-Pro](https://github.com/JohnHartshorn/Solar_Farm_Suitability_Analysis-ArcGIS-Pro)
 
 ---
