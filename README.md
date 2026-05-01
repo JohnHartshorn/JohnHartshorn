@@ -26,11 +26,23 @@ Spatial Analysis
 - Raster Analysis
 - Spatial statistics
 - Distance Analysis
+- Fishnet Analysis
 - Remote sensing
 
 ---
 
 ## Featured Projects
+
+### Broadband Gap Analysis - Las Vegas Metropolitan Area
+Spatial Analysis identifying broadband service and infrastructure gaps
+
+Tools used:
+- ArcGIS Pro
+- Fishnet analysis
+- Weighted Overlay
+- Hotspot Analysis
+
+---
 
 ### Las Vegas Green Space Analysis - Python
 Spatial analysis examining access to green space across the Las Vegasa metropolitan area
@@ -62,6 +74,7 @@ Spatial analysis determing most suitible location for Solar Farm production
 
 ## Portfolio 
 
+- [Broadband Gap Analysis](https://github.com/JohnHartshorn/Broadband_Gap_Analysis_Las_Vegas_Metropolitan_Area)
 - [Las Vegas Green Space Analysis](https://github.com/JohnHartshorn/Las-Vegas_Green_Space_Analysis)
 - [Caldor Fire Burn Scars Analysis](https://github.com/JohnHartshorn/Caldor_Fire_Burn_Scars_Analysis)
 - [Solar Farm Suitability Analysis-ArcGIS-Pro](https://github.com/JohnHartshorn/Solar_Farm_Suitability_Analysis-ArcGIS-Pro)
